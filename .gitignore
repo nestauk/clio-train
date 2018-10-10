@@ -99,6 +99,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+/data
+/models
+.DS_Store
 # mypy
 .mypy_cache/
